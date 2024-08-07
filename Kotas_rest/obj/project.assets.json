@@ -623,11 +623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Kotas\\Kotas_rest\\Kotas_rest.csproj",
+      "projectUniqueName": "C:\\Kotas\\kotas\\Kotas_rest\\Kotas_rest.csproj",
       "projectName": "Kotas_rest",
-      "projectPath": "C:\\Kotas\\Kotas_rest\\Kotas_rest.csproj",
+      "projectPath": "C:\\Kotas\\kotas\\Kotas_rest\\Kotas_rest.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Kotas\\Kotas_rest\\obj\\",
+      "outputPath": "C:\\Kotas\\kotas\\Kotas_rest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

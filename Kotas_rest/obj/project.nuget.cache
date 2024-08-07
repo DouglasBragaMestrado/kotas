@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2MhhDu3GJ7inD/WvVRvu66BLDmCYF6uasVfuvY/66TWGEEDqzWInX9PRwYzQjNWNBuDy03nxZxgsfN2F0YEfeQ==",
+  "dgSpecHash": "NuYh8J4qIazKGf3clfdMj7xw/BQEncyajzNU8Gc0A0hT5mFkXBldgsl3bGr9vQ3JQAwsSRdyymQeB7z/RrE9iw==",
   "success": true,
-  "projectFilePath": "C:\\Kotas\\Kotas_rest\\Kotas_rest.csproj",
+  "projectFilePath": "C:\\Kotas\\kotas\\Kotas_rest\\Kotas_rest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.data.sqlite\\8.0.7\\microsoft.data.sqlite.8.0.7.nupkg.sha512",
